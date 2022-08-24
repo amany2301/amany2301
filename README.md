@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amany2301
-- 👀 I’m CS Engineering student | Competitive programmer | App Dev|
+- 👀 I’m CS Engineering student | Competitive programmer | App Dev |
 - 🌱 Putting steps in ML/AI world, Learning something new everyday
 - 📫 How to reach me Amanky365@gmail.com
 
